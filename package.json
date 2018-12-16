@@ -1,0 +1,13 @@
+{
+"name": "Test".
+"description": "Test",
+"verison": "0.0.0",
+"main": "tachyon.js",
+"scripts": {
+   "start": "node tachyon.js"
+   },
+   "dependdencies": {
+     "discord.js": "11.1.0"
+      "request": "2.81.0"
+        }
+      }
